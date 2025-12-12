@@ -1,0 +1,12 @@
+﻿body {
+ background: radial-gradient(circle at top,#1b1f3b,#05060f);
+ color: #eaeaff;
+ font-family: system-ui;
+ margin:0;
+}
+header {
+ padding:16px;
+ font-weight:600;
+ font-size:20px;
+ backdrop-filter: blur(12px);
+}
