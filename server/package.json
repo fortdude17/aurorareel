@@ -1,7 +1,9 @@
 ﻿{
-  "name": "aurorareel",
+  "name": "aurorareel-server",
+  "version": "1.0.0",
   "private": true,
   "type": "commonjs",
+  "main": "server.js",
   "scripts": { "start": "node server.js" },
   "dependencies": {
     "bcrypt": "^5.1.1",

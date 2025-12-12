@@ -1,4 +1,9 @@
 ﻿node_modules
 .env
+npm-debug.log*
 server/uploads/**
 !server/uploads/.gitkeep
+.DS_Store
+.vscode
+.idea
+*.log
